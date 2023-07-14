@@ -9,7 +9,7 @@ YT.ready(_=>{
         playerVars: { "autoplay": 0, "controls": 0, "loop": 1, "playlist": videoId},
         events: {
             "onReady": e => {
-                e.target.setVolume(98);
+                e.target.setVolume(99);
                 clearInterval(loadInterval)
                 button.innerText = "DING DING DONG ;)"
                 button.classList.add("ready");
