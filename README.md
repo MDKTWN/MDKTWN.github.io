@@ -1,7 +1,7 @@
 ### :hammer_and_wrench: Languages :
 <div>
 
-      ¯\_( ͡❛ ͜ʖ ͡❛)_/¯
+          ¯\_( ͡❛ ᴗ ͡❛)_/¯
 
 </div>
 
