@@ -11,6 +11,6 @@
 @font-face {
     font-family: 'CognacRum';
     font-style: normal;
-    font-weight: 40;
+    font-weight: 400;
     src: local('Cognac Rum'), url('../font/CognacC.woff') format('woff');
 }
