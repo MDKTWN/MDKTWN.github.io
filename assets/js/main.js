@@ -12,7 +12,7 @@ YT.ready(_=>{
             "onReady": e => {
                 e.target.setVolume(98);
                 clearInterval(loadInterval)
-                button.innerText = "Ding Ding Dong ┏( ͡❛ ͜ʖ ͡❛)┛"
+                button.innerText = "My Ding Ding Dong ┏( ͡❛ ͜ʖ ͡❛)┛"
                 button.classList.add("ready");
                 button.addEventListener("click", () => {
                     animInterval = setInterval(preloaderAnim, 10);
